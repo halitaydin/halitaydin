@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-⚡ I’m currently learning JavaScript, ReactJs and so on.
+⚡ I’m currently learning JavaScript, ReactJS and so on.
 
 <details>
  <summary>stats!</summary>
